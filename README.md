@@ -2,3 +2,4 @@
 curso de HTML5 e CSS3 do curso em video
 
 Estou aprendendo a criar sites e agora vou gerenciar repositórios!
+testando mais uma vez o gerenciamento do git.
