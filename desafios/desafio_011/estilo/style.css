@@ -4,8 +4,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
-
-
 :root {
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
     --fonte2: 'passion one'; 
@@ -57,8 +55,7 @@ section {
     line-height: 2em;
     padding-left: 30px;
     font-size: 1.5em;
-    font-family: var(--fonte3);
-    
+    font-family: var(--fonte3);0,,    
 }
 
 section.normal {
